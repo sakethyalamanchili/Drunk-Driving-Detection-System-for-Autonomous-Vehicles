@@ -29,7 +29,7 @@ The Drunk Driving Detection System for Autonomous Vehicles project is dedicated 
 - **Circuit Diagram:**
   ![Circuit Diagram](https://drive.google.com/uc?id=1sIDkytHcAEUKI5OWDdg1Pf_t0MA82SLb)
 
-- **Model Implementation Diagrams:**
+- **Hardware Setup:**
   ![Model Implementation Diagrams](https://drive.google.com/uc?id=1lJytKNivu44yUopk0p2MgBmbv7tvqipr)
 
 ## Challenges Faced
